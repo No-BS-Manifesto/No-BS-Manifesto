@@ -1,4 +1,4 @@
-![No BS Logo](https://raw.githubusercontent.com/hughsheehy/The_NoBS_Manifesto/main/logo.svg)
+![No BS Logo](https://raw.githubusercontent.com/No-BS-Manifesto/No-BS-Manifesto/main/logo.svg)
 
 
 # The No BS Manifesto
